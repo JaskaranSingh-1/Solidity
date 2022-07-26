@@ -94,8 +94,4 @@ contract CrowdFunding
         thisRequest.totalVoters++;
     }
 
-
-
-
-
 }
